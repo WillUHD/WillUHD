@@ -6,7 +6,7 @@
 #### This GitHub profile is a collection of what inspires and interests me. 
 
 > Explore. Dream. Discover.
-> - Mark Twain
+> -- Mark Twain
 
 
 
