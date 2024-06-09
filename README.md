@@ -7,4 +7,4 @@
 
 > Explore. Dream. Discover.
 > 
-> - Mark Twain
+> -- Mark Twain
