@@ -16,5 +16,6 @@ Co-Founder, software architect at [DeepField ML](https://github.com/deepfield-ml
 
 Java, Python, and a load more Markdown. 
 
-> Life's most persistent and aspiring question is, "What are you doing for others?" 
+> Life's most persistent and aspiring question is, "What are you doing for others?"
+> 
 > Martin Luther King Jr. 
