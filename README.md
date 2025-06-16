@@ -14,7 +14,7 @@ Here are some projects I've been working on.
 
 Co-Founder, software architect at [DeepField ML](https://github.com/deepfield-ml). 
 
-Java, Python, and a load more Markdown. 
+Java, C++, and a load more Markdown. 
 
 > Life's most persistent and aspiring question is, "What are you doing for others?"
 > 
