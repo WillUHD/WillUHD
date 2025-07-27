@@ -14,8 +14,12 @@ Here are some projects I've been working on.
 
 Co-Founder, software architect at [DeepField ML](https://github.com/deepfield-ml). 
 
-Java, C++, and a load more Markdown. 
+Lead @ SHSID Data Science club
+
+Lead @ Apex Mac workshop
+
+Java, Python, C++, and a load more Markdown. 
 
 > Life's most persistent and aspiring question is, "What are you doing for others?"
 > 
-> Martin Luther King Jr. 
+> -- Martin Luther King Jr. 
