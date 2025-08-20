@@ -20,6 +20,6 @@ Lead @ Apex Mac workshop
 
 Java, Python, C++, and a load more Markdown. 
 
-> Life's most persistent and aspiring question is, "What are you doing for others?"
+> Being appropriate does not always mean conforming; often it means just the opposite. 
 > 
-> -- Martin Luther King Jr. 
+> -- Donda West
