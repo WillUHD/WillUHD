@@ -6,7 +6,7 @@
 
 <div align="left">
 
-Some idiot who likes machine learning. (And still uses Java). 
+Some idiot who likes machine learning. 
 
 Here are some projects I've been working on. 
 
