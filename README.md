@@ -12,8 +12,6 @@ Here are some projects I've been working on.
 
 ##
 
-Co-Founder, software architect at [DeepField ML](https://github.com/deepfield-ml). 
-
 Lead @ SHSID Data Science club
 
 Lead @ Apex Mac workshop
