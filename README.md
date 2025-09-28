@@ -2,21 +2,15 @@
 
 ![OIP](https://github.com/WillUHD/WillUHD/assets/134638202/ba49e35f-7bf8-41e4-948a-9f359f94a089)
 
-# WillUHD's Homepage
-
 <div align="left">
 
 Some idiot who likes machine learning. 
 
-Here are some projects I've been working on. 
-
 ##
 
-Lead @ SHSID Data Science club
+Lead @ SHSID Data Science group
 
-Lead @ Apex Mac workshop
-
-Java, Python, C++, and a load more Markdown. 
+Lead @ SHSID Research
 
 > Being appropriate does not always mean conforming; often it means just the opposite. 
 > 
